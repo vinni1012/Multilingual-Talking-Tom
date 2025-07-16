@@ -1,0 +1,17 @@
+talking-tom-ai/
+│
+├── app.py # Main Flask backend
+├── static/ # CSS, JS, Images
+│ └── avatar.js # Talking Tom animation control
+├── templates/
+│ └── index.html # Frontend UI
+├── utils/
+│ └── translator.py # Multilingual translation logic
+│ └── speech.py # Speech-to-text and text-to-speech
+├── requirements.txt # Dependencies
+├── README.md # Project documentation
+└── demo/ # Screenshots or videos
+
+bash
+Copy
+Edit

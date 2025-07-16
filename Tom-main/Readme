@@ -1,0 +1,30 @@
+# 🗣️ AI-Powered Multilingual Talking Tom
+
+An AI-integrated language learning application featuring a Talking Tom-style animated character that understands spoken input, converts it to text, translates it into multiple languages, and speaks it back using real-time Text-to-Speech. Built for interactive language learning and speech training.
+
+## 🚀 Features
+
+- 🎙️ Speech Recognition (Real-time)
+- 🌐 Multilingual Translation (Using NLP)
+- 🗣️ Text-to-Speech with Voice Output
+- 🧠 AI-based dynamic response system
+- 🧑‍🏫 Language learning assistant mode
+- 🧑‍🎤 Interactive cartoon interface using animated avatar
+
+## 📸 Demo
+
+![screenshot](demo/screenshot.png)  
+*Coming soon: Full video demo*
+
+## 🧰 Tech Stack
+
+- **Languages:** Python, HTML, CSS, JavaScript
+- **Frontend:** Web-based interface using HTML5 + JS animation
+- **Backend:** Python (Flask/FastAPI)
+- **APIs:** Google Speech Recognition, Google Translate, gTTS/pyttsx3, etc.
+- **Libraries:** SpeechRecognition, gTTS/pyttsx3, DeepSpeech/Wav2Vec2 (optional), Flask
+- **AI:** NLP translation pipeline
+- **Optional Integration:** ESP32 (for IoT audio output, future scope)
+
+## 📂 Project Structure
+
